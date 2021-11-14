@@ -2,15 +2,15 @@
 
 [[English](README.md) | [Português](README.pt.md)]
 
-Construa um _smart contract_ para criar uma aplicação descentralizada (dapp) para podermos alugar a bicicleta compartilhada do Hurb!
+Construa um _smart contract_ para criar uma aplicação descentralizada (_dapp_) para podermos alugar a bicicleta compartilhada do Hurb!
 
 <p align="center">
  <img src="hurb-bike.jpg" alt="Bicicleta do Hurb" />
 </p>
 
-O usuário da dapp fictícia vai reservar a bicicleta do Hurb por tempo, a cada 1 hora ele pagará com 42 HRB token. Como garantia para alugar a bicicleta o usuário vai precisar depositar 4 vezes o valor dos tokens necessários para o aluguel em uma nova conta _escrow_.
+O usuário da _dapp_ fictícia vai reservar a bicicleta do Hurb por tempo, a cada 1 hora ele pagará com 42 HRB tokens. Como garantia para alugar a bicicleta o usuário precisará depositar 4 vezes o valor dos tokens necessários para o aluguel em uma nova conta _escrow_.
 
-Quando a bibicleta for entregue o valor do aluguél na conta _escrow_ será transferido para a carteira do Hurb e o valor extra será devolvido para a conta do usuário. Se a bicicleta não for entregue, o valor existente na conta _escrow_ será consumido integralmente.
+Quando a bibicleta for entregue o valor do aluguel na conta _escrow_ será transferido para a carteira do Hurb e o valor extra será devolvido para a conta do usuário. Se a bicicleta não for entregue, o valor existente na conta _escrow_ será consumido integralmente.
 
 > Exemplo: 3 horas de reserva necessitará 504 HRBs em depósito. Ao entregar a bicicleta terá 378 HRBs devolvidos em sua conta.
 

@@ -24,8 +24,14 @@ A carteira do Hurb é `0x80210180b22ac1762df30Bd0dD6810D3aF8C798a`
 -   Caso você tenha algum motivo para não submeter um _pull request_, crie um repositório privado no Github, faça todo desafio na branch **main** e não se esqueça de preencher o arquivo `pull-request.txt`. Tão logo termine seu desenvolvimento, adicione como colaborador o usuário `automator-hurb` no seu repositório e o deixe disponível por pelo menos 30 dias. **Não adicione o `automator-hurb` antes do término do desenvolvimento.**
 -   Caso você tenha algum problema para criar o repositório privado, ao término do desafio preencha o arquivo chamado `pull-request.txt`, comprima a pasta do projeto - incluindo a pasta `.git` - e nos envie por email.
 -   Explicar no README como implementar e utilizar o _smart contract_.
--   O _smart contract_ deve funcionar em uma rede Ethereum privada ou na Ropsten.
 -   Entregar o código com testes em Solidity ou Javascript
+-   O _smart contract_ deve funcionar em uma rede Ethereum privada ou na Ropsten.
+-   Para executar seu _smart contract_, deve ser preciso apenas rodar os seguintes comandos:
+    -   git clone \$seu-fork
+    -   cd \$seu-fork
+    -   comando para instalar dependências
+    -   comando para submeter _smart contract_
+    -   comando para executar uma transação (um aluguel)
 
 ## Critério de avaliação
 

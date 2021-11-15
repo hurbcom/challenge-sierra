@@ -24,8 +24,14 @@ The Hurb's wallet is `0x80210180b22ac1762df30Bd0dD6810D3aF8C798a`
 -   If you have any reason not to submit a pull request, create a private repository on Github, do every challenge on the **main** branch and don't forget to fill in the `pull-request.txt` file. As soon as you finish your development, add the user `automator-hurb` to your repository as a contributor and make it available for at least 30 days. **Do not add the `automator-hurb` until development is complete.**
 -   If you have any problem creating the private repository, at the end of the challenge fill in the file called `pull-request.txt`, compress the project folder - including the `.git` folder - and send it to us by email.
 -   Explain in the README how to implement and use the smart contract.
--   The smart contract must work on a private Ethereum network or on Ropsten.
 -   You must submit code tests in Solidity or Javascript as well
+-   The smart contract must work on a private Ethereum network or on Ropsten.
+-   To run your code, all you need to do is run the following commands:
+    -   git clone \$your-fork
+    -   cd \$your-fork
+    -   command to install dependencies
+    -   command to submit your smart contract
+    -   command to execute a transaction (one borrow)
 
 ## Evaluation criteria
 

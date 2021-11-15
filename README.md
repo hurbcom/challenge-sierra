@@ -42,7 +42,7 @@ Bonus: Extra points for those who create a routine to transfer the rented bicycl
 
 ## Questions
 
-Any questions you may have, check the [issues](https://github.com/HurbCom/challenge-sierra/issues) to see if someone hasn't already and if you can't find your answer, open one yourself. new issue!
+Any questions you may have, please check the [issues](https://github.com/HurbCom/challenge-sierra/issues) to find out if someone hasn't it before. If you can't find your answer, create a new issue and send your question!
 
 Good luck and good trip! ;)
 
